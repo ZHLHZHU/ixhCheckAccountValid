@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2019年9月6日 15:09:34
+# @Author  : ZHLH
+# @FileName: ixhCheckAccountValidApplication.py
+
 from school_api import SchoolClient
 import account_pb2
 import account_pb2_grpc
